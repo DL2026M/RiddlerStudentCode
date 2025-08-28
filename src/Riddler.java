@@ -53,12 +53,17 @@ public class Riddler { ;
         }
         return decrypted;
     }
-
+    // TODO: Complete the decryptFour() function.
     public String decryptFour(String encrypted) {
         String decrypted = "";
-
-        // TODO: Complete the decryptFour() function.
-
+        int key;
+        // Goes through each emoji
+        for (int i = 0; i < encrypted.length(); i++) {
+            // The hexadecimal value of the emoji subtracted by the truck emoji (hexadecimal value) - 32
+            key = encrypted.charAt(i) - 9919;
+            char c = (char) key;
+            decrypted += c;
+        }
         return decrypted;
     }
 }
