@@ -1,8 +1,9 @@
 Name: YOUR NAME HERE
 
-| Date  |    Time    |                                                                           Update |
-|:------|:----------:|------------------------------------------------------------------:|
-| Aug 27 | 10am-10:30 | Test test                                                         |
+| Date   |      Time    |                                                                                                                                                                                                                                                                                                                                                                                                                      Update |
+|:-------|:------------:|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Aug 24 | 9:00pm-11:30pm | Didn't right any code due to having intelliJ errors, but I found the name of the first 3 poems with Oliver. For #1, we found that whatever letter was written, we had to move +9 in the alphabet to the right. For #2, we figured out that each number was a direct match to an ascii value. For #3, we solved it by understanding that we needed to convert the binary to numbers to ascii values, which gave us the poem. |
+| Aug 27 |              |                                                                                                                                                                                                                                                                                                                                                                                                                             |
 
 
 To add a new row to the table, click into a cell and then hit shift-enter.
